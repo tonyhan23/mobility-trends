@@ -6,7 +6,7 @@ curl -X GET "https://api-beta.arity.com/shared-mobility-insights/v1/zip-codes/60
 
 ### Response
 
-```
+```json
 {
   "originBlocks": [
     {
