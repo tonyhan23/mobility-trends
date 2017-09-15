@@ -17,7 +17,7 @@ Mobility Pattern
 Trip Types
 ==========
 - Personal: trips taken by indivduals who own their personal vehicles
-- Taxi: public taxi data (currently only Chicago and New York City taxi data is available, with NYC's at the more granular census block level)
+- Taxi: Chicago and NYC made taxi data publicly available to enhance mobility pattern studies
 
 ZIP codes are sorted from most to least popular.
 
